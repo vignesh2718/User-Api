@@ -42,6 +42,5 @@ export class UserService {
         coordinate: { latitude: +user.location.coordinates.latitude, longitude: +user.location.coordinates.longitude }
       }))
     };
-
   }
-}
+};
